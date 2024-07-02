@@ -1,0 +1,38 @@
+<<<<<<< HEAD
+{
+    "name": "soap-client-electron",
+    "version": "1.0.0",
+    "description": "SOAP client with Electron",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "dependencies": {
+      "axios": "^1.7.2",
+      "electron": "^25.3.0",
+      "xml2js": "^0.4.23"
+    },
+    "devDependencies": {},
+    "author": "Seu Nome",
+    "license": "MIT"
+  }
+=======
+{
+    "name": "soap-client-electron",
+    "version": "1.0.0",
+    "description": "SOAP client with Electron",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "dependencies": {
+      "axios": "^1.7.2",
+      "electron": "^25.3.0",
+      "xml2js": "^0.4.23"
+    },
+    "devDependencies": {},
+    "author": "Seu Nome",
+    "license": "MIT"
+  }
+>>>>>>> f7648bdeda7e864bb320c4a5fd5f76608463abdd
+  
